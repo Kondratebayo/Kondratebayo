@@ -1,6 +1,6 @@
 # Hi, I'm Vova
 
-### Data Engineer @ Beeline
+### Data Engineer | Backend Developer @ Beeline
 
 I work with data engineering, Python, SQL, and telecom data.
 
