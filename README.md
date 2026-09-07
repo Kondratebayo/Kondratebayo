@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vova
 
-<!--
-**Kondratebayo/Kondratebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineer @ Beeline
 
-Here are some ideas to get you started:
+I work with data engineering, Python, SQL, and telecom data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+🐍 Python
+🗄️ PostgreSQL / PostGIS
+⚡ PySpark
+🔄 ETL & Data Pipelines
+🗺️ Geospatial Data
+📡 Mobile Networks
+```
+
+Currently focused on building data-driven tools and backend services, and learning more about modern data engineering and software development.
+
+### Tech I work with
+
+**Python · SQL · PostgreSQL · PostGIS · PySpark · Airflow · Docker · Git**
+
+📍 Telecom & Geospatial Data
+💻 Python enthusiast
+📚 Always learning
